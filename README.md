@@ -4,7 +4,8 @@ This is our laravel project
 </br>
 INT 221
 </br>
-#indulge.in(a unique methodology of learning)#
+indulge.in(a unique methodology of learning)
+</br>
     Applying the Direct Method and the Communicative Approach in all our lessons, our teachers use contextual clues and
     questions to encourage students to express themselves in a facilitated conversation.
     </br>

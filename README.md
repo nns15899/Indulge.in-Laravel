@@ -2,7 +2,7 @@
     Applying the Direct Method and the Communicative Approach in all our lessons, our teachers use contextual clues and
     questions to encourage students to express themselves in a facilitated conversation. Our lessons are structured in
     a way where there is equal opportunity for the student to get to know the target language and to be comfortable
-    using it, progressively consolidating the students' understanding and ensure higher retention.!
+    using it, progressively consolidating the students' understanding and ensure higher retention.!#
   </br>
   </br>
   

@@ -1,7 +1,10 @@
 This is our laravel project
+</br>
 (MVC Programming)
+</br>
 INT 221
-indulge.in(a unique methodology of learning)
+</br>
+#indulge.in(a unique methodology of learning)#
     Applying the Direct Method and the Communicative Approach in all our lessons, our teachers use contextual clues and
     questions to encourage students to express themselves in a facilitated conversation.
     </br>
